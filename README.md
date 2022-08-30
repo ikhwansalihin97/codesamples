@@ -1,5 +1,5 @@
-# codesamples
-Interview code samples
+# code samples
+code samples
 
 Codes listed here are samples of code from one of my previous project.
 
